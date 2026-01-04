@@ -17,7 +17,7 @@ export default function Home() {
             Your journey to tech excellence starts here.
           </p>
           <Link
-            href="blog.html"
+            href="/blog"
             className="inline-block bg-white text-purple-600 font-semibold px-8 py-3 rounded-lg hover:bg-gray-100 transition-colors shadow-lg duration-300"
           >
             Explore Blogs
